@@ -3,14 +3,14 @@
 This is a basic calculator. you can run it on Microsft Visual Studio Application
 
 
-# Run The Code
-# 1
+## Run The Code
+### 1
 
 First dowmload the Microsoft [Visual Studio](https://visualstudio.microsoft.com/downloads/) .....
 
-Then download the [.sln]() file and run it on visual studio...
+Then download the [.sln](https://github.com/sayan14banerjee/Calculator-using-Vb.net/blob/main/Calculator.sln) file and run it on visual studio...
 
-# 2
+### 2
 
 open the visual studio 
 
@@ -21,7 +21,7 @@ then disign the page just like the image
 ![this is an image]( )
 
 
-and set all button like the [.vb]() file....
+and set all button like the [.vb](https://github.com/sayan14banerjee/Calculator-using-Vb.net/blob/main/Form1.vb) file....
 
 '''
 
